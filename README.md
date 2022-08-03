@@ -1,4 +1,12 @@
 # lghotel
+Admin View
+https://amhotel-da211.web.app/login 
+test123@gmail.com
+test123
+
+Customer View
+https://amhotel-da211.web.app/
+
 
 ## Project setup
 ```
